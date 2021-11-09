@@ -46,6 +46,8 @@ In the first page, Photo Viewer, there are 4 buttons:
   * a button for updating the title of an album
   * a button to delete an album
 
+<img src="images/2021-11-09_15h56_27.png.png" width="100" height="100">
+
 In the second page, Photo Viewer, there are also 4 buttons:
   * a button for viewing all the albums that are automatically generated from tipycode usign the albums resource from JSONPlaceholder
   * a button for creating a new album

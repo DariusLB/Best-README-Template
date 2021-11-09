@@ -40,7 +40,7 @@
 ## About The Project
 
 I have created two interfaces in html, named indexAlbum.html and indexPhoto.html. 
-In the first page, Photo Viewer, there are 4 buttons:<img src="images/2021-11-09_15h56_27.png" width="300" height="300">
+In the first page, Photo Viewer, there are 4 buttons:<img src="images/2021-11-09_15h56_27.png" width="800" height="400">
   * a button for viewing all the albums that are automatically generated from tipycode usign the albums resource from JSONPlaceholder
   * <img src="images/2021-11-09_15h57_23.png" width="100" height="100">
   * a button for creating a new album

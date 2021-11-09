@@ -33,10 +33,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Gallery Saver</h3>
 
   <p align="center">
-    project_description
+    Develop a web application to consume the {JSON} Placeholder API (https://jsonplaceholder.typicode.com/) in order for a user to be able to create entities named "Photo Albums" in which you can add photos. You are always able to add or remove albums as a user. Inside an album you can also edit the Title of the photo album and you can add or remove photos. For each photo you can also add and remove comments.
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />

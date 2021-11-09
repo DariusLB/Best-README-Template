@@ -80,11 +80,11 @@ I have used the [albums](https://jsonplaceholder.typicode.com/albums) and [photo
     - [x] User is able to delete a gallery
 
 - [] Upload and delete a photo.
-    - [] User is able to upload a photo from computer
+    - [x] User is able to upload a photo from computer
     - [x] User is able to visualize all photos from a gallery
     - [x] User is able to delete a photo from a gallery
 
-- [] Write and delete a comment to images.
+- [x] Write and delete a comment to images.
     - [x] User is able to write a comment at one image
     - [x] User is able to delete a comment
 

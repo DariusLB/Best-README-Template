@@ -42,30 +42,30 @@
 I have created two interfaces in html, named indexAlbum.html and indexPhoto.html. 
 In the first page, Photo Viewer, there are:
   * a button for viewing all the albums that are automatically generated from tipycode usign the albums resource from JSONPlaceholder
-  * <img src="images/2021-11-09_15h57_23.png" width="800" height="400">
+  <img src="images/2021-11-09_15h57_23.png" width="800" height="400">
   * a button for creating a new album
-  * <img src="images/2021-11-09_15h56_48.png" width="800" height="400">
+  <img src="images/2021-11-09_15h56_48.png" width="800" height="400">
   * a button for updating the title of an album
-  * <img src="images/2021-11-09_15h57_02.png" width="800" height="400">
+  <img src="images/2021-11-09_15h57_02.png" width="800" height="400">
   * a button to delete an album
-  * <img src="images/2021-11-09_15h57_11.png" width="800" height="400">
+  <img src="images/2021-11-09_15h57_11.png" width="800" height="400">
 
 
 
 In the second page, Photo Viewer, there are:
   * a button for viewing all the albums that are automatically generated from tipycode usign the albums resource from JSONPlaceholder
-  * <img src="images/2021-11-09_15h57_35.png" width="800" height="400">
+  <img src="images/2021-11-09_15h57_35.png" width="800" height="400">
   * a button for creating a new album
-  * <img src="images/2021-11-09_15h58_00.png" width="800" height="400">
+  <img src="images/2021-11-09_15h58_00.png" width="800" height="400">
   * a button for updating the title of an album
-  * <img src="images/2021-11-09_15h58_47.png" width="800" height="400">
+  <img src="images/2021-11-09_15h58_47.png" width="800" height="400">
   * a button to delete an album
-  * <img src="images/2021-11-09_15h58_56.png" width="800" height="400">
+  <img src="images/2021-11-09_15h58_56.png" width="800" height="400">
   * for the upload a photo from computer I have created a form with two input forms, a button to submit and a button and an input form for an image
-  * <img src="images/2021-11-09_15h59_40.png" width="800" height="400">
-  * <img src="images/2021-11-09_16h00_21.png" width="800" height="400">
+  <img src="images/2021-11-09_15h59_40.png" width="800" height="400">
+  <img src="images/2021-11-09_16h00_21.png" width="800" height="400">
   * an input field to add a comment
-  * <img src="images/2021-11-09_16h01_10.png" width="800" height="400">
+  <img src="images/2021-11-09_16h01_10.png" width="800" height="400">
 
 ### Built With
 

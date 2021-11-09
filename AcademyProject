@@ -1,0 +1,43 @@
+Gallery Saver – Project
+
+Story and user needs.
+
+Develop a web application to consume the {JSON} Placeholder API (https://jsonplaceholder.typicode.com/) in order for a user to be able to create entities named "Photo Albums" in which you can add photos. You are always able to add or remove albums as a user. Inside an album you can also edit the Title of the photo album and you can add or remove photos. For each photo you can also add and remove comments.
+
+* AC = Acceptance Criteria
+
+The API that you will use in order to make requests is here https://jsonplaceholder.typicode.com/.
+Please read the documentation, how each route can be accessed and what you can do with them.
+The routes that you will need are /albums (representing galleries), /photos, /posts.
+
+Tasks.
+
+1. Create, modify and delete a gallery.
+	
+As a user I want to be able to create a gallery, to modify and to delete it.
+The endpoint for galleries is: https://jsonplaceholder.typicode.com/albums
+
+AC.
+•	User is able to create a gallery
+•	User is able to edit the title of the gallery
+•	User is able to delete a gallery
+
+2. Upload and delete a photo.
+
+As a user I want to be able to upload a photo into a gallery from my computer. Also I want to be able to delete some of them.
+The endpoint for photos is:  https://jsonplaceholder.typicode.com/photos
+
+AC
+•	User is able to upload a photo from computer
+•	User is able to visualize all photos from a gallery
+•	User is able to delete a photo from a gallery
+
+3. Write and delete a comment to images
+
+As a user I want to be able to write a comment for a photo.
+The endpoint for comments is: https://jsonplaceholder.typicode.com/posts
+
+AC
+•	User is able to write a comment at one image.
+•	User is able to delete a comment.
+

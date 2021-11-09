@@ -18,8 +18,6 @@
   </p>
 </div>
 
-
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -46,18 +44,25 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+I have created two interfaces in html, named indexAlbum.html and indexPhoto.html. 
+In the first page, Photo Viewer, there are 4 buttons:
+  * a button for viewing all the albums that are automatically generated from tipycode usign the albums resource from JSONPlaceholder
+  * a button for creating a new album
+  * a button for updating the title of an album
+  * a button to delete an album
+(For the create, update and delele button, you can only see the results in the console of the page)
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email`, `email_client`, `project_title`, `project_description`
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
+In the second page, Photo Viewer, there are also 4 buttons:
+  * a button for viewing all the albums that are automatically generated from tipycode usign the albums resource from JSONPlaceholder
+  * a button for creating a new album
+  * a button for updating the title of an album
+  * a button to delete an album
+(For the create, update and delele button, you can only see the results in the console of the page)
+  * for the upload a photo from computer I have created a form with two input forms, a button to submit and a button and an input form for an image
+(After completing the title and comment input forms and after pressing the submit button, the data will be showed on the screen underneath)
+(For uploading a photo from computer, I have only a button that uploads the picture in the image input form that I have created)
 
 ### Built With
 
@@ -67,22 +72,9 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- GETTING STARTED -->
 ## Getting Started
 For completing this project I used the free fake API named [JSONPlaceholder](https://jsonplaceholder.typicode.com/) from typicode. For using this, I needed the fetch API function. 
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- ROADMAP -->
 ## Roadmap

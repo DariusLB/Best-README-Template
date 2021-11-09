@@ -106,24 +106,11 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- CONTACT -->
 ## Contact
 
-Your Name -  - email@email_client.com
+Darius-Lorenzo.Boncila@ro.bosch.com
 
 Project Link: [Gallery Saver - Project](https://bitbucket.org/swbs_academy/jsprojdb/src/master/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->

@@ -30,17 +30,9 @@
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -61,6 +53,7 @@ In the second page, Photo Viewer, there are also 4 buttons:
   * a button for updating the title of an album
   * a button to delete an album
   * for the upload a photo from computer I have created a form with two input forms, a button to submit and a button and an input form for an image
+
 (For the create, update and delele button, you can only see the results in the console of the page)
 (After completing the title and comment input forms and after pressing the submit button, the data will be showed on the screen underneath)
 (For uploading a photo from computer, I have only a button that uploads the picture in the image input form that I have created)

@@ -52,6 +52,7 @@ In the first page, Photo Viewer, there are 4 buttons:
   * a button for creating a new album
   * a button for updating the title of an album
   * a button to delete an album
+  * 
 (For the create, update and delele button, you can only see the results in the console of the page)
 
 In the second page, Photo Viewer, there are also 4 buttons:
@@ -59,8 +60,8 @@ In the second page, Photo Viewer, there are also 4 buttons:
   * a button for creating a new album
   * a button for updating the title of an album
   * a button to delete an album
-(For the create, update and delele button, you can only see the results in the console of the page)
   * for the upload a photo from computer I have created a form with two input forms, a button to submit and a button and an input form for an image
+(For the create, update and delele button, you can only see the results in the console of the page)
 (After completing the title and comment input forms and after pressing the submit button, the data will be showed on the screen underneath)
 (For uploading a photo from computer, I have only a button that uploads the picture in the image input form that I have created)
 
@@ -75,6 +76,7 @@ In the second page, Photo Viewer, there are also 4 buttons:
 <!-- GETTING STARTED -->
 ## Getting Started
 For completing this project I used the free fake API named [JSONPlaceholder](https://jsonplaceholder.typicode.com/) from typicode. For using this, I needed the fetch API function. 
+I have used the [albums](https://jsonplaceholder.typicode.com/albums) and [photos](https://jsonplaceholder.typicode.com/photos).
 
 <!-- ROADMAP -->
 ## Roadmap

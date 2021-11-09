@@ -71,7 +71,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 <!-- GETTING STARTED -->
 ## Getting Started
-For completing this project you will need to use the free fake API name JSONPlaceholder from typicode. * [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
+For completing this project you will need to use the free fake API named [JSONPlaceholder](https://jsonplaceholder.typicode.com/) from typicode.  
 
 ### Prerequisites
 
